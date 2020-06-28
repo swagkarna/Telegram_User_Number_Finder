@@ -20,8 +20,8 @@ Find the phone number of any telegram users
 
 
 # Requirements
-## Pythin 3.7+
-## If any module is missing install using pip3 install missing module
+-  Python 3.7+
+- If any module is missing install using pip3 install missing module
 
 
 ## Happy Hacking :
